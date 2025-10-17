@@ -10,8 +10,8 @@ function App() {
   return (
     <div>
       <Welcome name="Deepak" />
-      <Welcome name="Sarah" />
-      <Welcome name="John" />
+      <Welcome name="Sanjay" />
+      <Welcome name="Vathsav" />
     </div>
   );
 }
